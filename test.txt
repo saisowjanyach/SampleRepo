@@ -1,3 +1,7 @@
+
 test.txt
 
 just typing something to change 
+
+
+git remote add origin https://github.com/saisowjanyach/SampleRepo.git
